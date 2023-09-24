@@ -1,0 +1,10 @@
+1. todo lo de python
+2. bootstrap sbippets
+3. flask snippets - todos
+4. jinja2 snippet
+5. instalar: sudo apt install python3-pip
+6. instalar flask: pip install flask
+7. instalar mysql: pip install Flask-MySQL
+8. instalar jinja2: pip install jinja2
+
+
